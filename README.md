@@ -1,3 +1,11 @@
+##  Team Information
+| Name | SRN |
+|------|-----|
+| Akula Pragnya | PES1UG24AM028 |
+| Amogh Shetty | PES1UG24034 |
+| Ananta Krishna | PES1UG24036 |
+
+
 # Reliable File Transfer over UDP
 
 A custom reliable file transfer protocol built on top of UDP in Python.  
